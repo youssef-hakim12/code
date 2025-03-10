@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\elhoda\_gateway\resources\views/last.blade.php ENDPATH**/ ?>
